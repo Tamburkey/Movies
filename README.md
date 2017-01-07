@@ -28,10 +28,9 @@ This directory contains 3 python files:
 and JQuery links and functions which create the `fresh_tomatoes.html` file.
 
 `entertainment_center.py` is a python script which imports class `Movie`
-from `media.py`, creates various instances of class `Movie` in an array
-`movies`, and runs the `.open_movies_page` function from `fresh_tomatoes.py`
-on the `movies` array, which creates `fresh_tomatoes.html` in the Movies
-directory.
+from `media.py`, creates instances of class `Movie` in an array `movies`,
+and runs the `.open_movies_page` function from `fresh_tomatoes.py`on the
+`movies` array, which creates `fresh_tomatoes.html` in the Movies directory.
 
 ## Use
 
