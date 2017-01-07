@@ -23,5 +23,6 @@ from `media.py`, creates various instances of class `Movie` in an array
 on the `movies` array, outputting `fresh_tomatoes.html`. 
 
 ## Use
-After running `entertainment_center.py` using python 2.7, open the file
+After cloning the [master repository](https://github.com/Tamburkey/Movies.git)
+and running `entertainment_center.py` usingpython 2.7, open the file 
 `fresh_tomatoes.html` in a browser to view the movie trailer website.
