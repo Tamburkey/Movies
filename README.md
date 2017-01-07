@@ -24,4 +24,4 @@ on the (movies) array, outputting (fresh_tomatoes.html).
 
 ## Use
 After running (entertainment_center.py) using python 2.7, open the file
-(fresh_tomatoes.html) in your browser to view the movie trailer website.
+(fresh_tomatoes.html) in a browser to view the movie trailer website.
