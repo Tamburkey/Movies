@@ -30,7 +30,7 @@ which create the `fresh_tomatoes.html` file.
 `entertainment_center.py` is a python script which imports class `Movie`
 from `media.py`, creates instances of class `Movie` in an array `movies`,
 and runs the `.open_movies_page` function from `fresh_tomatoes.py`on the
-`movies` array, which creates `fresh_tomatoes.html` in the Movies directory.
+`movies` array, which outputs `fresh_tomatoes.html`.
 
 ## Use
 
