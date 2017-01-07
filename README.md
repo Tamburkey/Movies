@@ -1,6 +1,6 @@
 # Movies README
 
-Project for Intro to Programming Nanodegree on Udacity.com
+Project for Intro to Programming / Full Stack Nanodegree on Udacity.com
 
 Written for python 2.7 https://www.python.org/
 
