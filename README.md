@@ -24,8 +24,8 @@ This directory contains 3 python files:
 
 `media.py` contains the class `Movie` constructor and methods.
 
-`fresh_tomatoes.py` contains the html structure, JS scripts, Bootstrap,
-and JQuery links and functions which create the `fresh_tomatoes.html` file.
+`fresh_tomatoes.py` contains the html structure and python functions
+which create the `fresh_tomatoes.html` file.
 
 `entertainment_center.py` is a python script which imports class `Movie`
 from `media.py`, creates instances of class `Movie` in an array `movies`,
