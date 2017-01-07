@@ -4,6 +4,13 @@ Project for Intro to Programming / Full Stack Nanodegree on Udacity.com
 
 Written for [python 2.7](https://www.python.org/)
 
+## Installation
+
+Install [python 2.7](https://www.python.org/).
+Clone the GitHub repository.
+
+	$ git clone https://github.com/Tamburkey/Movies.git
+
 ## Contents
 
 This directory contains 3 python files:
