@@ -2,7 +2,7 @@
 
 Project for Intro to Programming / Full Stack Nanodegree on Udacity.com
 
-Written for python 2.7 https://www.python.org/
+Written for [python 2.7](https://www.python.org/)
 
 ## Contents
 
