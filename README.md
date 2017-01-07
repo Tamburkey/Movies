@@ -27,7 +27,8 @@ the final .html file.
 `entertainment_center.py` is a python script which imports class `Movie`
 from `media.py`, creates various instances of class `Movie` in an array
 `movies`, and runs the `.open_movies_page` function from `fresh_tomatoes.py`
-on the `movies` array, outputting `fresh_tomatoes.html`. 
+on the `movies` array, which creates `fresh_tomatoes.html` in the Movies
+directory.
 
 ## Use
 After cloning the [master repository](https://github.com/Tamburkey/Movies.git)
