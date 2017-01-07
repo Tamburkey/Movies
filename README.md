@@ -1,6 +1,8 @@
 # Movies README
 
-Project for Intro to Programming / Full Stack Nanodegree on Udacity.com
+Project for Intro to Programming / Full Stack Nanodegree on Udacity.com.
+
+Creates a movie trailer webpage `fresh_tomatoes.html`.
 
 Written for [python 2.7](https://www.python.org/)
 
@@ -19,10 +21,11 @@ This directory contains 3 python files:
 [media.py](media.py)
 
 ## Description
+
 `media.py` contains the class `Movie` constructor and methods.
 
-`fresh_tomatoes.py` contains the html structure and functions which create
-the final .html file.
+`fresh_tomatoes.py` contains the html structure, JS scripts, Bootstrap,
+and JQuery links and functions which create the `fresh_tomatoes.html` file.
 
 `entertainment_center.py` is a python script which imports class `Movie`
 from `media.py`, creates various instances of class `Movie` in an array
@@ -31,6 +34,7 @@ on the `movies` array, which creates `fresh_tomatoes.html` in the Movies
 directory.
 
 ## Use
+
 After cloning the [master repository](https://github.com/Tamburkey/Movies.git)
 and running `entertainment_center.py` using python 2.7, open the file 
 `fresh_tomatoes.html` in a browser to view the movie trailer website.
