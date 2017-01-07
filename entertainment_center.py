@@ -1,6 +1,9 @@
 import media
+# imported class Movie from media.py
 import fresh_tomatoes
+# imported functions from fresh_tomatoes.py
 
+# start creation of class Movie instances
 cabin = media.Movie("Cabin in the Woods",
 	"Its about a cabin in the woods.",
 	"http://cdn.collider.com/wp-content/uploads/cabin-in-the-woods-poster-hi-res.jpg",
@@ -38,5 +41,10 @@ airplane = media.Movie("Airplane!",
 	"1980"
 	)
 
+
 movies = [cabin, space, eternal_sunshine, sunshine, monty_python, airplane]
+# Created movies array containing all Movies instances created.
+
 fresh_tomatoes.open_movies_page(movies)
+# Call function from fresh_tomatoes on the movies array.
+
