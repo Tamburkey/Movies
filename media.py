@@ -8,6 +8,5 @@ class Movie():
 		self.poster_image_url = poster_image
 		self.trailer_youtube_url = trailer_youtube
 		self.release_date = release_date
-
 	def show_trailer(self):  # Instance Method of class Movie
 		webbrowser.open(self.trailer_youtube_url)
