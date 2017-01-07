@@ -24,7 +24,7 @@ This directory contains 3 python files:
 `fresh_tomatoes.py` contains the html structure and functions which create
 the final .html file.
 
-`entertainment_center.py` is a python script which imports class (Movie)
+`entertainment_center.py` is a python script which imports class `Movie`
 from `media.py`, creates various instances of class `Movie` in an array
 `movies`, and runs the `.open_movies_page` function from `fresh_tomatoes.py`
 on the `movies` array, outputting `fresh_tomatoes.html`. 
