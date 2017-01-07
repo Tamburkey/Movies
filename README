@@ -5,9 +5,9 @@ Written for python 2.7 https://www.python.org/
 ## Contents
 
 This directory contains 3 python files:
-(entertainment_center.py)
-(fresh_tomatoes.py)
-(media.py)
+[a relative link](entertainment_center.py)
+[a relative link](fresh_tomatoes.py)
+[a relative link](media.py)
 
 ## Description
 (media.py) contains the class (Movie) constructor and methods.
