@@ -1,4 +1,3 @@
-
 # import class Movie from media.py
 import media
 # import functions from fresh_tomatoes.py
@@ -17,7 +16,7 @@ space = media.Movie("2001: A Space Odyssey",
 	"https://www.youtube.com/watch?v=lfF0vxKZRhc",
 	"1968")
 
-eternal_sunshine = media.Movie("Eternal Sunshine of the Spotless Mind", 
+eternal_sunshine = media.Movie("Eternal Sunshine of the Spotless Mind",
 	"Jim Carey gives himself brain damage",
 	"https://vinint.files.wordpress.com/2016/01/eternal-sunshine-of-the-spotless-mind-poster-artwork-kate-winslet-kirsten-dunst-tom-wilkinson.jpg",
 	"https://www.youtube.com/watch?v=quuMv7cGUn0",
