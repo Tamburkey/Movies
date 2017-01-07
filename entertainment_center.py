@@ -3,7 +3,7 @@ import media
 import fresh_tomatoes
 # imported functions from fresh_tomatoes.py
 
-# start creation of class Movie instances
+# start creation of instances of class Movie
 cabin = media.Movie("Cabin in the Woods",
 	"Its about a cabin in the woods.",
 	"http://cdn.collider.com/wp-content/uploads/cabin-in-the-woods-poster-hi-res.jpg",
